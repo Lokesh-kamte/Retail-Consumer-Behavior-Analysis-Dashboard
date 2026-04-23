@@ -1,5 +1,5 @@
-# Retail-Consumer-Behavior-Analysis-Dashboard
- This project aimed to provide timely and actionable insights to support better decision-making and drive business growth.
+# Consumer-Goods-Ad-hoc-Insights
+
 ## About Company :
 - Atliq Hardware is a leading computer hardware manufacturer based in India, with a strong global presence across 26 countries. The company specializes in three major product divisions: Peripherals & Accessories, PC, Networking & Storage.
 
